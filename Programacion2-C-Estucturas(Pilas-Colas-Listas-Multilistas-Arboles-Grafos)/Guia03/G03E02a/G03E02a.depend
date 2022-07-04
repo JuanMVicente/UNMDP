@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1631484154 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia03\g03e02a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1631484127 c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia03\g03e02a\menu.h
+
+1631484132 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia03\g03e02a\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1630976422 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia02\g03e01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fraccion.h"
+
+1630976667 c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia02\g03e01\fraccion.h
+
+1630976422 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia03\g03e01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fraccion.h"
+
+1633177397 c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia03\g03e01\fraccion.h
+
+1633177421 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia03\g03e01\fraccion.c
+	<stdio.h>
+	<stdlib.h>
+	"fraccion.h"
+
