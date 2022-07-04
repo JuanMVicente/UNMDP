@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632519316 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia05\g05e01\01pilaestatica.c
+
+1632519284 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia05\g05e01\03colaestatica.c
+
+1632519517 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia05\g05e01\02piladinamica.c
+	<stdio.h>
+	<stdlib.h>
+
+1632519304 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia05\g05e01\04coladinamica.c
+	<stdio.h>
+	<stdlib.h>
+
