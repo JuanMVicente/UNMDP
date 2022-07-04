@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633483549 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia06\g06e03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

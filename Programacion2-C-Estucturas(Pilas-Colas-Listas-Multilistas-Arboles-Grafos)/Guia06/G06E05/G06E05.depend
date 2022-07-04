@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1634175965 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia06\g06e05\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"TDA.h"
+
+1634176608 c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia06\g06e05\tda.h
+
+1634176874 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia06\g06e05\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"TDA.h"
+
+1634176960 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia06\g06e05\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TDA.h"
+
