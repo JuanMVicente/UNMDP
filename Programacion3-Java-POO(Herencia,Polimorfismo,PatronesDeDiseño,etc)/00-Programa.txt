@@ -1,0 +1,57 @@
+Unidad 1: Introducción a la Programación Orientada a Objetos
+Introducción a la Programación Orientada a Objetos. Principales características del 
+paradigma. Concepto de Objeto, Instancia, Clase, Método y Mensaje. Herramientas de 
+desarrollo. Programación dinámica e interactiva. Técnicas de prueba y depuración.
+
+Unidad 2: Objetos y Clases
+Jerarquía de Clases. Variables de Clase. Inicialización. Concepto de Metaclase. 
+Concepto de Encapsulamiento. Ocultamiento de la información.
+Propiedades de los objetos. Encapsulamiento. Ocultamiento de la Información. Modos 
+de acceso. Métodos como control de acceso. Acceso a los atributos privados.
+El problema del atributo público. Control de acceso por clase. Métodos getXXX() y 
+setXXX(). Sobrecarga de métodos. Miembros “static” (atributos, métodos). Constantes. 
+Constantes primitivos. Constantes con referencia a objeto. Constantes – cambiar el 
+estado del objeto referido. Colector de basura y “finalize”. La relación de asociación: 
+agregación y composición. Diferencias entre agregación y composición
+
+Unidad 3: Reutilización
+Concepto de Herencia. Clases Abstractas y Concretas. Redefinición. Concepto de 
+Delegación. Herencia vs. Delegación. Patrón de diseño (Design Pattern). Concepto de 
+Framework.
+
+Unidad 4: Polimorfismo
+Concepto de Polimorfismo. Concepto de enlace tardío (Late Binding). Concepto de 
+doble envío. (Double Dispatch). Implementación de polimorfismo.
+
+Unidad 5: Colecciones
+Protocolos de Colecciones. Adición, inserción y eliminación de elementos. Clases de 
+colecciones. Secuenciales y no secuenciales. Diccionarios. Conjuntos. Comparación. 
+Ordenamiento. Conversión entre clases de colecciones.
+
+Unidad 6: Excepciones
+Excepciones. Definición. Buenas prácticas. Por qué usar excepciones. Qué es una 
+excepción. Jerarquía de excepciones. Esquema básico en el uso de excepciones. 
+Excepciones más específicas. Cómo lanzar excepciones? Flujo de control. Qué hacer 
+cuando un método lanza una excepción? Cláusula trows y redefinición de métodos. Uso
+de finally. Cómo crear nuevas excepciones?
+
+Unidad 7: Diseño de Interfaces gráficas de Usuario
+Interacción humano-computadora (HCI). Concepto de usabilidad. Interacción y manejo 
+de Eventos. Introducción a los formularios.
+
+Unidad 8: Introducción al Diseño Orientado a Objetos
+Documentación. Introducción a UML (Unified Modelling Language). Diagrama de 
+Clases. Casos de Uso. Técnicas de Diseño Orientado a Objetos. CRC (ClassesResposibilities-Collaborations).
+
+Unidad 9: Eventos y Concurrencia
+Concepto de Proceso. Múltiples procesos independientes. Planificación. Prioridades. 
+Semáforos. Exclusión mutua. Recursos compartidos.
+
+Unidad 10: Herramientas de programación, control de versiones, 
+repositorios
+Entornos de programación. Herramientas para el control de versiones, repositorios en la
+nube para programar en forma colaborativa (por ejemplo Git). Herramientas para la 
+gestión y construcción de proyectos de software (por ejemplo Maven).
+
+Unidad 11: Persistencia
+Archivos, serialización.
