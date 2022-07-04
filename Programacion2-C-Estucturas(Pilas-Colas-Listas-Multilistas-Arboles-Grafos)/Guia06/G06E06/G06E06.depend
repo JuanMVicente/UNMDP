@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia06\g06e06\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1633695763 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia06\g06e06\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	<string.h>
+
+1633570705 c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia06\g06e06\lista.h
+

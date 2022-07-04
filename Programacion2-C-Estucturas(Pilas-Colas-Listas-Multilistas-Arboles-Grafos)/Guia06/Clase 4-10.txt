@@ -1,0 +1,72 @@
+
+
+void generaLD(TListaD * LD, char x[20]){
+	PnodoD aux,ant;
+	while(TListaD != NULL && aux->cadena < x){
+		aux=aux->sig;
+		ant=aux;
+	if (aux->cadena == x)
+		aux->cantidad+=1;
+	else{
+		if(TListaD.pri == NULL){
+			aux = (PnodoD) Malloc(sizeof(nodoD));
+			aux->pri = NULL;
+			aux->ult = NULL;
+			aux->cantidad=1;
+			aux->cadena=x;
+			TListaD.pri=aux;
+			TListaD.ult=aux;
+		}
+		else
+			aux = (PnodoD) Malloc(sizeof(nodoD));
+			aux = (*LD).pri;
+			aux->pri = NULL;
+			aux->ult = NULL;
+			aux->cantidad=1;
+					
+		
+			
+
+	
+
+}
+
+void inserta_cadena(TListaD* LD, char* cadena) {
+	nodoD* nodo_act, * nodo_nuevo;
+
+	nodo_nuevo = (nodoD*)malloc(sizeof(nodoD));
+	strcpy(nodo_nuevo->cadena, cadena);
+
+	if ((*LD).pri == NULL || strcmp((*LD).pri->cadena, cadena) > 0)
+	{
+		nodo_nuevo->ant = NULL;
+		nodo_nuevo->sig = (*LD).pri;
+		if ((*LD).pri == NULL)
+			(*LD).ult = nodo_nuevo;
+		else
+			(*LD).pri->ant = nodo_nuevo;
+		(*LD).pri = nodo_nuevo;
+	}
+	else 
+		if (strcmp(nodo_nuevo->cadena, (*LD).ult->cadena) > 0) {
+nodo_nuevo->ant = (*LD).ult;
+			nodo_nuevo->sig = NULL;
+			(*LD).ult->sig = nodo_nuevo;
+			(*LD).ult = nodo_nuevo;
+		}
+		else {
+			nodo_act = (*LD).pri;
+			while (nodo_act != NULL && strcmp(nodo_act->cadena, cadena) < 0)
+				nodo_act = nodo_act->sig;
+			if (!strcmp(nodo_act->cadena, cadena)) {
+				free(nodo_nuevo);
+				nodo_act->repeticiones += 1;
+			}
+			else {
+				nodo_nuevo->sig = nodo_act;
+				nodo_nuevo->ant = nodo_act->ant;
+				nodo_act->ant = nodo_nuevo;
+nodo_act->ant->sig = nodo_nuevo;
+			}
+		}
+}
