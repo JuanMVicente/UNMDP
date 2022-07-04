@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1381338938"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\jmvic\OneDrive\Documentos\UNMDP\Programación I\Ejercicios Pascal\lib\x86_64-win64&quot; &quot;-FuC:\Users\jmvic\OneDrive\Documentos\UNMDP\Programación I\Ejercicios Pascal\&quot; &quot;-FUC:\Users\jmvic\OneDrive\Documentos\UNMDP\Programación I\Ejercicios Pascal\lib\x86_64-win64\&quot; &quot;-FEC:\Users\jmvic\OneDrive\Documentos\UNMDP\Programación I\Ejercicios Pascal\&quot; &quot;-oC:\Users\jmvic\OneDrive\Documentos\UNMDP\Programación I\Ejercicios Pascal\G01E05.exe&quot; G01E05.pas"/>
-</CONFIG>
