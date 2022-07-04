@@ -1,0 +1,32 @@
+Objetivos
+Concluida la asignatura se espera que el estudiante sea capaz de:
+Analizar, seleccionar e implementar diferentes formas de organización y representación de datos en 
+memoria, teniendo en cuenta sus características y alcance. 
+Los resultados de aprendizaje que comprende esta asignatura son: 
+✓ Utiliza estructuras de datos -lineales y no lineales- para resolver problemas de bajo y medio nivel, de 
+forma eficiente.
+✓ Reconoce las ventajas y desventajas, fortalezas y debilidades de las estructuras de datos y sus 
+implementaciones para ser utilizadas en las soluciones algorítmicas propuestas de forma de responder 
+al problema a resolver
+✓ Utiliza Tipos de Datos Abstractos, para lograr abstracción haciendo las soluciones independientes de 
+las implementaciones.
+✓ Codifica soluciones en lenguaje C como facilitador del aprendizaje de otros lenguajes de 
+programación afines a él.
+
+Contenidos
+Unidad I Sintaxis lenguaje C
+Tipos, operadores, ciclos, estructuras, funciones.
+Unidad II Tipo puntero
+Operaciones. Manejo dinámico de la memoria: asignación y liberación. Segmentos.
+Unidad III TDA
+Fundamentos del Tipo de Dato Abstracto (TDA). Abstracción. Operadores. Encapsulamiento.
+Unidad IV Estructuras de Datos Lineales y Aplicaciones 
+Pilas y Colas. TDA: implementación estática y dinámica. Pilas y recursión. 
+Concepto, definición e implementación de listas dinámicas. Operaciones.
+Listas con sublistas, pilas y colas. Listas dobles. Listas circulares.
+Unidad V Estructuras de Datos No Lineales y Aplicaciones
+Concepto, Características, Propiedades de Árboles generales y binarios. 
+Árboles de expresión. Construcción y recorrido de árboles binarios. Árboles binarios de búsqueda
+(ABB). Operaciones sobre ABB. Arboles AVL: definición, balanceo, rotaciones.
+TDA árbol n-ario. Definición. Recorrido. Concepto e implementación de Grafos. Recorridos. AAM: Prim 
+y Kruskal. Algoritmos de camino mínimo (Dijkstra, Floyd). Existencia de camino, ciclos, conexidad
