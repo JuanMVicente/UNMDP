@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631795486 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia04\g04e01\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1631659138 c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia04\g04e01\funciones.h
+
+1631894956 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia04\g04e01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
