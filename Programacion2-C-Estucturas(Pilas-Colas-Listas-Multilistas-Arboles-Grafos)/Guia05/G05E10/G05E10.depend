@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632872155 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia05\g05e10\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"Cola.h"
+
+1632872357 c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia05\g05e10\cola.h
+
+1632880040 source:c:\users\jmvic\onedrive\documentos\unmdp\programacionii\guia05\g05e10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cola.h"
+
