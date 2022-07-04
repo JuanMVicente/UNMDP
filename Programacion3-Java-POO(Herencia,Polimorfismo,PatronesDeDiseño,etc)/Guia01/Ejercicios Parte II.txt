@@ -1,0 +1,40 @@
+7 -
+una clase con los datos de la lista
+una clase Lista
+Con los metodos para sacar y poner datos
+una clase Fila
+Con los metodos para sacar y poner datos
+
+8 -
+Clase Pais 
+conformada por Provincias
+
+Clase Provincia
+conformada por Ciudades
+Metodo patra calcular el porcentaje
+
+Clase Ciudad
+relacionada con la clase Impuestos y Gastos
+Metodo para calcular deficit
+
+Clase Impuestos
+Clase Gastos
+
+9 -
+Clase Agenda
+Guarda Reuniones y usuarios, es la que verifica que no haya solapamientos.
+
+Clase Reunion
+
+Clase Usuario
+
+10-
+A -
+Stack -> a1 a2 a3 a4
+Heap -> "ABC-123" y "ZZZ-987"
+
+B -
+Stack -> a1 a2 a3 a4
+Heap -> "ABC-123"
+
+C -
