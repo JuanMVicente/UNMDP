@@ -1,0 +1,38 @@
+
+
+ Base b = new Base();
+ Base e = new Extendida();
+
+ System.out.println(b.metodo1(e));
+	metodo 1 en clase Base, parametro Extendida: soy Extendido
+	
+ System.out.println(e.metodo1(e));
+	metodo 1 en clase Extendida, parametro Extendida: soy Extendido
+
+ System.out.println(b.metodo1((Extendida) e));
+	metodo 1 en clase Base, parametro Extendida: soy Extendido
+
+ System.out.println(e.metodo1((Extendida) e));
+	metodo 1 en clase Extendida, parametro Extendida: soy Extendido
+
+ System.out.println(b.metodo2(b)); 
+	error
+	
+ System.out.println(e.metodo2(e));
+	error
+
+
+ System.out.println(e.metodo2((Extendida) b));
+	error
+
+ System.out.println(e.metodo2((Extendida) e));
+	
+
+ Extendida x = (Extendida) e;
+
+
+ System.out.println(x.metodo2(b));
+	metodo 2 en clase Extendida, parametro Base: soy Base
+
+ System.out.println(x.metodo2(e));
+	error

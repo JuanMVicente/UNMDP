@@ -1,0 +1,62 @@
+Vehículo v = new Coche();
+Coche c = (Coche) v;
+Bicicleta b = (Bicicleta) v; // error
+Object o = v;
+Vehiculo v2= (Vehiculo) o //no hay ";"
+Vehiculo b2 = new Bicicleta();
+Bicicleta b3 = b2;
+v.detalle () ; --> Coche
+c.detalle (); --> Coche 
+b.detalle () ; //error
+o.detalle () ; //error
+v2.detalle (); //error
+b2.detalle (); --> Bicicleta
+b3.detalle (); --> Bicicleta
+
+System.out.println(v.a); --> 20
+System.out.println(c.a); --> 20
+System.out.println(b.a); --> --
+System.out.println(o.a); --> --
+System.out.println(v2.a); --> 10
+System.out.println(b2.a); --> 30
+System.out.println(b3.a); --> 30
+System.out.println(v.getA()); --> 20
+System.out.println(c.getA()); --> 20
+System.out.println(b.getA()); --> --
+System.out.println(o.getA()); --> --
+System.out.println(v2.getA()); --> 10
+System.out.println(b2.getA()); --> 30
+System.out.println(b3.getA()); --> 30
+
+---------------------------------------------
+
+Vehículo v = new Coche();
+Coche c = (Coche) v;
+//Bicicleta b = (Bicicleta) v; ERROR
+Object o = v;
+Vehiculo v2= (Vehiculo) o //no hay ";"
+Vehiculo b2 = new Bicicleta();
+//Bicicleta b3 = b2; ERROR
+
+v.detalle () ; --> Coche
+c.detalle (); --> Coche 
+//b.detalle () ; //error
+//o.detalle () ; //error
+v2.detalle (); --> coche
+b2.detalle (); --> Bicicleta
+//b3.detalle (); // error
+
+System.out.println(v.a); --> 10
+System.out.println(c.a); --> 20
+System.out.println(b.a); --> --
+System.out.println(o.a); --> --
+System.out.println(v2.a); --> 10
+System.out.println(b2.a); --> 10
+System.out.println(b3.a); --> --
+System.out.println(v.getA()); --> 10
+System.out.println(c.getA()); --> 10
+System.out.println(b.getA()); --> --
+System.out.println(o.getA()); --> --
+System.out.println(v2.getA()); --> 10
+System.out.println(b2.getA()); --> 30
+System.out.println(b3.getA()); --> --

@@ -1,0 +1,44 @@
+10
+Clase1.metodo2
+Clase1.metodo3
+Clase1.metodo4
+11
+Clase2.metodo2
+Clase1.metodo3
+Clase2.metodo4
+10
+Clase2.metodo2 - Clase3.metodo2
+Clase1.metodo3 - Clase2.metodo3
+Clase2.metodo4
+2
+3
+1
+2
+3
+
+MAAAAAAAAAAAL todos los objetos creados son de clase 3, tiene sus metodos y atributos
+
+11
+Clase2.metodo2
+Clase3.metodo2
+Clase1.metodo3
+Clase2.metodo3
+Clase2.metodo4
+11
+Clase2.metodo2
+Clase3.metodo2
+Clase1.metodo3
+Clase2.metodo3
+Clase2.metodo4
+11
+Clase2.metodo2
+Clase3.metodo2
+Clase1.metodo3
+Clase2.metodo3
+Clase2.metodo4
+1
+2
+3
+3
+3
+3
