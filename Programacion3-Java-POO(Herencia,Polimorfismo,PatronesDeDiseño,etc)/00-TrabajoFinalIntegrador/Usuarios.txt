@@ -1,0 +1,19 @@
+Usuario Administrador
+usuario: admin / contraseña: admin
+
+Usuarios Empleadores
+--------------------
+
+usuario: empleador1
+usuario: empleador2
+usuario: empleador3
+
+Usuarios Empleados
+------------------
+
+usuario: empleado1
+usuario: empleado2
+usuario: empleado3
+
+
+*Tanto para empleados y empleadores la contraseña es 1234
