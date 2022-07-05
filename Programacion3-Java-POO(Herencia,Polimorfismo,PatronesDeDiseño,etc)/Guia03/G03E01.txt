@@ -1,0 +1,6 @@
+Notebook y computadorea tienen Bateria y Disco Rigido
+
+Notebook y computadora son una CPU
+
+DiscoRigido es una Unidad de Almacenamiento
+

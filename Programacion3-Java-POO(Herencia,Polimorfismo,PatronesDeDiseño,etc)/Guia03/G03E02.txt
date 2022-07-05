@@ -1,0 +1,5 @@
+Persona - nombre fechaNac dni email
+Profesor - nombre fechaNac dni email
+Facultad - nada
+Alumno - nombre fechaNac dni email
+biblioteca - nada
